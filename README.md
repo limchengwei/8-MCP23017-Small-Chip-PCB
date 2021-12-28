@@ -1,6 +1,6 @@
 # 8-MCP23017-Small-Chip-PCB
 
-Thank you JLCPCB for sponsoring this project.
+Thank you [JLCPCB](https://jlcpcb.com/RAT) for sponsoring this project.
 
 We are using the smaller size MCP23017 version for this project.
 
@@ -16,7 +16,7 @@ The MCPs are powered by 5V.
 
 Things we need:
 
-JLCPCB Customized PCB                     * 1
+[JLCPCB](https://jlcpcb.com/RAT) Customized PCB                     * 1
 
 MCP23017 Small Chip                       * 8
 
