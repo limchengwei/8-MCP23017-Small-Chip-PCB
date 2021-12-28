@@ -32,4 +32,4 @@ Solder Wire, Lead Free
 
 Please visit https://www.hackster.io/limchengwei/8-mcp23017-small-chip-pcb-7d1ae8 for more information about the project.
 
-I would like to thank JLCPCB again for the sponsorship and please buy your PCB at jlcpcb.com/RAT
+I would like to thank JLCPCB again for the sponsorship and please buy your PCB at [](jlcpcb.com/RAT)
